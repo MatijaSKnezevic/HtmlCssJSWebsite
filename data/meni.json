@@ -1,0 +1,101 @@
+[{
+    "slika":{
+        "src":"images/slikezasajt/hrana3.gif",
+        "alt":"slika1"
+    },
+    "ispisi":true,
+    "naslov":"meni",
+    "cena":2,
+    "tekst":  [
+
+        { "naziv":"PLJESKAVICA ",
+            "cena":630
+        },
+        {
+            "naziv":"ROLOVANI ĆEVAPI ",
+            "cena":640
+        },
+        {
+            "naziv":"GURMANSKA PLJESKAVICA ",
+            "cena":680
+        },
+        {
+            "naziv":"BURGER ",
+            "cena":700
+        },
+        {
+            "naziv":"PUNJENA PLJESKAVICA ",
+            "cena":680
+        }
+    ] 
+    
+},
+{
+    "slika":{
+        "src":"images/slikezasajt/pice1.gif",
+        "alt":"slika2"
+    },
+    "ispisi":false,
+    "naslov":"meni2",
+    "cena":1,
+    "tekst": [
+        { "naziv":"ČAJ MILFORD ",
+            "cena":120
+        },
+        {
+            "naziv":"ESPRESSO SA MLEKOM ",
+            "cena":125
+        },
+        {
+            "naziv":"ESPRESSO SA ŠLAGOM ",
+            "cena":135
+        },
+        {
+            "naziv":"CAPPUCCINO ",
+            "cena":140
+        },
+        {
+            "naziv":"NESCAFE ",
+            "cena":150
+        },
+        {
+            "naziv":"NESCAFE SA ŠLAGOM ",
+            "cena":170
+        },
+        {
+            "naziv":"TOPLA ČOKOLADA ",
+            "cena":150
+        }
+    ] 
+    
+},
+{
+    "slika":{
+        "src":"images/slikezasajt/hrana1.gif",
+        "alt":"slika3"
+    },
+    "ispisi":true,
+    "naslov":"meni3",
+    "cena":3,
+    "tekst": [
+        
+        { "naziv":"JAGNJETINA ",
+            "cena":2250
+        },
+        {
+            "naziv":" PRASETINA ",
+            "cena":1650
+        },
+        {
+            "naziv":"PASTRMKA ",
+            "cena":730
+        },
+        {
+            "naziv":"DIMLJENI FILE PASTRMKE ",
+            "cena":780
+        }
+    ] 
+    
+}
+
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id":"rastuce",
+        "value":"cena1",
+        "tekst":"Cena rastuce"
+    },
+    {
+        "id":"opadajuce",
+        "value":"cena",
+        "tekst":"Cena opadajuce"
+    }
+]
+
+

@@ -1,0 +1,32 @@
+[{
+    "slika":{
+        "src":"images/slikezasajt/restoran1.gif",
+        "alt":"slika1"
+    },
+    "ispisi":true,
+    "naslov":"meni",
+    "tekst":"LAUNDŽ BAR VEVERICA osnovana je u proleće 2018-e godine, sa željom da na Zlatiboru donose jednu novu energiju. Ušuškaj se, isprobaj nase nove ukuse, budi deo ove prirodno lepršave atmosfere, a mi ti garantujemo da češ ucek poželeti da se vratiš! "
+    
+},
+{
+    "slika":{
+        "src":"images/slikezasajt/hrana1.gif",
+        "alt":"slika2"
+    },
+    "ispisi":false,
+    "naslov":"meni2",
+    "tekst":"Posebna tema naše kuće je hrana. Naš tim sačinjen od mladih, enruziastičnih ljudi, koji svakom proizvodu pristupaju sa puno pažnje."
+    
+},
+{
+    "slika":{
+        "src":"images/slikezasajt/pice4.gif",
+        "alt":"slika3"
+    },
+    "ispisi":true,
+    "naslov":"meni3",
+    "tekst":"Uživajte u svakom zalogaju uz vaše omiljeno pice."
+    
+}
+
+]

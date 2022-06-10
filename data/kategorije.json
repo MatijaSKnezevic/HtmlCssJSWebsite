@@ -1,0 +1,24 @@
+[
+    {
+        "id":3,
+        "kategorija":" Restoran ",
+        "clasa":"filter-category"
+    },
+    
+    {
+        "id":2,
+        "kategorija":" Hrana ",
+        "clasa":"filter-category"
+    },
+    
+    {
+        "id":1,
+        "kategorija":" Pice ",
+        "clasa":"filter-category"
+    },
+    {
+        "id":"odadoz",
+        "kategorija":" A-Z ",
+        "clasa":"odadoz"
+    }
+]

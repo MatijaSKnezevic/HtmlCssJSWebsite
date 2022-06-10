@@ -1,0 +1,133 @@
+
+[{
+"id":"1",
+"slika":{
+    "src":"images/slikezasajt/pice1.gif",
+    "alt":"slika1"
+},
+"kategorije":{
+                "id":1,
+                "kategorija":"Pice"
+            },
+"tekst":"Kafe iz nase ponude!",
+"cena":150
+},
+{
+"id":"2",
+"slika":{
+    "src":"images/slikezasajt/pice2.gif",
+    "alt":"slika2"
+},
+
+"kategorije":{
+    "id":1,
+    "kategorija":"Pice"
+},
+"tekst":"Alkohol",
+"cena":200
+},
+{
+
+"id":"3",
+"slika":{
+    "src":"images/slikezasajt/pice3.gif",
+    "alt":"slika3"
+},
+"kategorije":{
+                "id":1,
+                "kategorija":"Pice"
+            },
+"tekst":"Kokteli",
+"cena":300
+
+},
+{
+
+"id":"4",
+"slika":{
+    "src":"images/slikezasajt/pice4.gif",
+    "alt":"slika4"
+},
+"kategorije":{
+                "id":1,
+                "kategorija":"Pice"
+            },
+"tekst":"Kokteli",
+"cena":300
+
+
+},
+{
+"id":"5",
+"slika":{        
+    "src":"images/slikezasajt/hrana1.gif",
+    "alt":"slika5"
+},
+"kategorije":{
+                "id":2,
+                "kategorija":"Hrana"
+            },
+"tekst":"Burgeri",
+"cena":400
+
+},
+{
+"id":"6",
+"slika":{        
+    "src":"images/slikezasajt/hrana2.gif",
+    "alt":"slika6"
+},
+"kategorije":{
+                "id":2,
+                "kategorija":"Hrana"
+            },
+"tekst":"Burgeri",
+"cena":400
+
+},
+{
+"id":"7",
+"slika":{        
+    "src":"images/slikezasajt/hrana3.gif",
+    "alt":"slika7"
+},
+"kategorije":{
+                "id":2,
+                "kategorija":"Hrana"
+            },
+"tekst":"Rostilj",
+"cena":500
+
+},
+{
+
+"id":"8",
+"slika":{        
+    "src":"images/slikezasajt/hrana4.gif",
+    "alt":"slika8"
+},
+"kategorije":{
+                "id":2,
+                "kategorija":"Hrana"
+            },
+"tekst":"Pecenje",
+"cena":900
+
+},
+{
+"id":"9",
+"slika":{        
+    "src":"images/slikezasajt/restoran1.gif",
+    "alt":"slika6"
+},
+"kategorije":{
+                "id":3,
+                "kategorija":"Restoran"
+            },
+"tekst":"Restoran"
+
+
+}
+
+]
+
